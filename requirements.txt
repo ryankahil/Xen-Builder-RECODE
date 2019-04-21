@@ -1,0 +1,4 @@
+click
+click_configfile
+XenAPI<=1.2
+mockito
